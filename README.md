@@ -9,6 +9,15 @@ The template is built with [Create React App](https://github.com/facebook/create
 and [Polkadot js API](https://polkadot.js.org/api/). Familiarity with these tools
 will be helpful, but the template strives to be self-explanatory.
 
+## SubGame Note
+
+[SubGame](http://www.subgame.org/) fork this project is used to develop research and feed back to the original author. 
+
+Research direction:
+- Substrate FRAME framework
+- Substrate RPC client
+- Substrate application tools
+
 ## Using The Template
 
 ### Installation
